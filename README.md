@@ -34,13 +34,13 @@ With the growth of the subscription economy, users face difficulty tracking bill
 
 <h5>📂 Project Structure </h5>
 
-Milestone2/
-├── create_tables.sql            # DDL for table creation
-├── insert_sample_data.sql       # Sample test data
-├── optimized_queries.sql        # Final tuned SQL queries
-├── streamlit_app/
-│   └── app.py                   # SQL Runner Web Interface (Streamlit)
-└── Milestone2.pdf               # Full project report and documentation
+-Milestone2/
+-├── create_tables.sql            # DDL for table creation
+-├── insert_sample_data.sql       # Sample test data
+-├── optimized_queries.sql        # Final tuned SQL queries
+-├── streamlit_app/
+-│   └── app.py                   # SQL Runner Web Interface (Streamlit)
+-└── Milestone2.pdf               # Full project report and documentation
 
 
 <h6> 🧮 Database Design </h6>
